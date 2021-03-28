@@ -1,6 +1,6 @@
 module.exports = {
     // Do not include a trailing slash!
-    siteUrl: `https://stormyghost.gatsby.io`,
+    siteUrl: `https://stormyghostz.gatsby.io`,
 
     // Enable infinite scroll (default: true)
     infiniteScroll: true,
